@@ -3,5 +3,3 @@ pandas
 google-generativeai
 beautifulsoup4
 requests
-python-dotenv
-
